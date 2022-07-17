@@ -2,7 +2,7 @@
 
 # "Krakens and GUIs and CLIs, Oh My!"
 
-A companion repo to go along with a blog post by our Director, Simon Norman.
+A companion repo to go along with a blog post written by our Director, Simon Norman.
 
 - `main` branch: https://director.swrm.link
 - `preview` branch: https://git-example-git-feature-tailwind-css-swarmcreative.vercel.app/
